@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Secrets and local config
+.env
+*.pem
+
+# Benchmark output (contains dataset excerpts; regenerate with benchmark.py)
+results.csv
+
+# Medium drafts with work-along notes; remove these lines to publish them
+GUIDE_PART*.md

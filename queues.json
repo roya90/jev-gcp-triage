@@ -1,0 +1,13 @@
+{
+  "ACCOUNT": "Requests about create account, delete account, edit account, recover password, registration problems, switch account",
+  "CANCEL": "Requests about check cancellation fee",
+  "CONTACT": "Requests about contact customer service, contact human agent",
+  "DELIVERY": "Requests about delivery options, delivery period",
+  "FEEDBACK": "Requests about complaint, review",
+  "INVOICE": "Requests about check invoice, get invoice",
+  "ORDER": "Requests about cancel order, change order, place order, track order",
+  "PAYMENT": "Requests about check payment methods, payment issue",
+  "REFUND": "Requests about check refund policy, get refund, track refund",
+  "SHIPPING": "Requests about change shipping address, set up shipping address",
+  "SUBSCRIPTION": "Requests about newsletter subscription"
+}

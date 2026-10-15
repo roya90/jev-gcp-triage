@@ -1,0 +1,5 @@
+typesafe-sdk
+google-genai
+pydantic
+fastapi
+uvicorn

@@ -1,0 +1,7 @@
+typesafe-sdk
+google-genai
+pydantic
+fastapi
+uvicorn
+kagglehub
+pandas
