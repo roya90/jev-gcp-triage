@@ -132,4 +132,4 @@ Dockerfile              Non-root container for Cloud Run
 
 ## License
 
-Code: **[YOUR LICENSE]**. The dataset keeps its own license (see above).
+Code: **MIT**. The dataset keeps its own license (see above).
